@@ -71,8 +71,8 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JIUSAN3&repo=Face_recognition_code&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Face_recognition_code" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+<a href="https://github.com/JIUSAN3/HBCS-ordering_system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JIUSAN3&repo=HBCS-ordering_system&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HBCS-ordering_system" />
 </a>
 
 <!-- ## 👨‍💻 This week, I spent my time on:
